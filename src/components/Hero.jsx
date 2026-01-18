@@ -35,6 +35,7 @@ function Hero() {
       delay: 1,
     });
 
+    //Animating hero leaves
     gsap
       .timeline({
         scrollTrigger: {
